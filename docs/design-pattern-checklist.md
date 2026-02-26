@@ -5,7 +5,7 @@ GoF（Gang of Four）のデザインパターン 23 個を学習管理するた�
 ## 生成に関するパターン（Creational）
 - [ ] Abstract Factory
 - [ ] Builder
-- [ ] Factory Method
+- [x] Factory Method
 - [ ] Prototype
 - [ ] Singleton
 
