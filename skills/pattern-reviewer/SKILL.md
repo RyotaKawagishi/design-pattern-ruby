@@ -13,7 +13,7 @@ description: Review a pattern directory against this repository's completion cri
 
 ## レビュー観点
 1. `catalog/{pattern}/{pattern}.md`
-   - `問題点 / 解決 / コード例 / メリット・デメリット` があるか
+   - `問題点 / 解決 / 構成要素 / コード例 / メリット・デメリット` があるか
 2. `catalog/{pattern}/{pattern}.rb`
    - 実行可能か（最低限、文法エラーがないか）
 3. `catalog/{pattern}/quiz.md`
@@ -26,4 +26,3 @@ description: Review a pattern directory against this repository's completion cri
 - 指摘を重要度順に列挙する
 - ファイルパスと行番号を付ける
 - 指摘がなければ「要件上は完了」と明記する
-

@@ -23,6 +23,7 @@ description: Create a new design-pattern learning scaffold in this repository by
    - `# カタログ`
    - `## 問題点`
    - `## 解決`
+   - `### 構成要素`
    - `## コード例`
    - `## メリット・デメリット`
    - `# メモ`
@@ -31,4 +32,3 @@ description: Create a new design-pattern learning scaffold in this repository by
 ## 完了チェック
 - `catalog/README.md` の構成と一致している
 - `AGENTS.md` の完了条件に必要な 3 ファイルが存在する
-

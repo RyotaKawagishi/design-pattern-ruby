@@ -15,6 +15,11 @@
 - 用途: `pattern.md` と `pattern.rb` からクイズ10問を生成
 - 依頼例: 「`factory-method` の `quiz.md` を作成して」
 
+### quiz-grader
+- 場所: `skills/quiz-grader/SKILL.md`
+- 用途: `quiz.md` の自分の回答を残したまま採点し、`### 解説` を追記
+- 依頼例: 「`builder` の `quiz.md` を採点して」
+
 ### pattern-reviewer
 - 場所: `skills/pattern-reviewer/SKILL.md`
 - 用途: 完了要件レビュー（見出し不足、クイズ不足、実行性）
@@ -35,6 +40,6 @@
 2. `pattern.md` / `pattern.rb` を埋める
 3. `quiz-generator` で `quiz.md` を作成
 4. 自分で回答を記入
-5. `pattern-reviewer` で完了要件チェック
-6. `checklist-sync` で進捗更新
-
+5. `quiz-grader` で採点と解説追記
+6. `pattern-reviewer` で完了要件チェック
+7. `checklist-sync` で進捗更新
